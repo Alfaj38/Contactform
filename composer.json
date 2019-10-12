@@ -1,0 +1,21 @@
+{
+    "name": "mamun/contactform",
+    "authors": [
+        {
+            "name": "Md. Mamunur Roshid",
+            "email": "mamunur.rashid@dnet.org.bd"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alfaj\\Contactform\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Alfaj\\Contactform\\": "src",
+            "Tests\\": "tests/"
+        }
+    }
+}
